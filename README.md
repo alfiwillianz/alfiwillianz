@@ -1,7 +1,7 @@
 <div align="center">
   
   # 💫 About Me:
-  ✏️ I'm currently learning Data Science and Machine Learning at Airlangga University
+  ✏️ I'm currently learning Data Science and Machine Learning
 
   ## 🌐 Socials:
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zwniff) 
