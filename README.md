@@ -1,7 +1,7 @@
 <div align="center">
   
   # 💫 About Me:
-  ✏️ I'm currently learning Data Science and Machine Learning
+  ✏️ I'm an aspiring AI Engineer with a background in Data Science and Machine Learning, based in Surabaya, Indonesia. Passionate about leveraging technology to solve real-world problems and constantly evolving as a programmer.
 
   ## 🌐 Socials:
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/semicoll_) 
@@ -10,9 +10,9 @@
   [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/semicoll_) 
   
   # 💻 Tech Stack:
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
   ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  
+
   # 📊 GitHub Stats:
   <div align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=semicoll&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Profile Stats"/><br/>
