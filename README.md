@@ -15,8 +15,6 @@
 
   # 📊 GitHub Stats:
   <div align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=semicoll&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Profile Stats"/><br/>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=semicoll&theme=dark&hide_border=false" alt="Streak Stats"/><br/>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=semicoll&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
   </div>
 
