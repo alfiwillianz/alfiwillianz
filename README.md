@@ -5,9 +5,11 @@
 
   ## 🌐 Socials:
   [![Instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/semiqolonn) 
-  [![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alfi-willianz) 
+  [![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/alfi-willianz) 
   [![Twitch](https://img.shields.io/badge/twitch-9146FF?style=for-the-badge&logo=Twitch&logoColor=white)](https://twitch.tv/semiqolonn) 
   [![X](https://img.shields.io/badge/x-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/semiqolonn) 
+  [![Kaggle](https://img.shields.io/badge/kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/zwniff)
+  [![Discord](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/users/702817817774391334)
   
   # 💻 Tech Stack:
 
