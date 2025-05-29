@@ -52,6 +52,25 @@
   [![Lubuntu](https://img.shields.io/badge/lubuntu-0078D6?style=for-the-badge&logo=lubuntu&logoColor=white)](https://lubuntu.me/)
   [![Windows](https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white)](https://www.microsoft.com/windows)
 
-  [![](https://visitcount.itsvg.in/api?id=semicoll&icon=0&color=0)](https://visitcount.itsvg.in)
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-</div>
+  # 🖥️ Machine
+
+  ### Main Machine
+  ![Ryzen 5 7500f](https://img.shields.io/badge/Ryzen%205%207500f-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+  ![RTX 5060ti 16GB](https://img.shields.io/badge/RTX%205060ti%2016GB-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+  ![32 GB DDR5 RAM](https://img.shields.io/badge/16GB%20DDR5%20RAM-000000?style=for-the-badge&logo=ram&logoColor=white)
+  ![2.5 TB NVMe SSD](https://img.shields.io/badge/2.5TB%20NVMe%20SSD-000000?style=for-the-badge&logo=ssd&logoColor=white)
+  ![1.5 TB HDD](https://img.shields.io/badge/1.5TB%20HDD-000000?style=for-the-badge&logo=hdd&logoColor=white)
+  ![Ubuntu w/ Hyprland](https://img.shields.io/badge/ubuntu%20w%2F%20hyprland-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+  ### Laptop
+  ![Ryzen 5 3500u](https://img.shields.io/badge/Ryzen%205%203500u-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+  ![Radeon Vega 8](https://img.shields.io/badge/Radeon%20Vega%208-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+  ![20 GB DDR4 RAM](https://img.shields.io/badge/20GB%20DDR4%20RAM-000000?style=for-the-badge&logo=ram&logoColor=white)
+  ![512 GB NVMe SSD](https://img.shields.io/badge/500GB%20NVMe%20SSD-000000?style=for-the-badge&logo=ssd&logoColor=white)
+  ![Ubuntu w/ Hyprland](https://img.shields.io/badge/ubuntu%20w%2F%20hyprland-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+  ### Discord bot server
+  ![celeron 1007u](https://img.shields.io/badge/Celeron%201007u-ED1C24?style=for-the-badge&logo=intel&logoColor=white)
+  ![4 GB DDR3 RAM](https://img.shields.io/badge/4GB%20DDR3%20RAM-000000?style=for-the-badge&logo=ram&logoColor=white)
+  ![500 GB HDD](https://img.shields.io/badge/500GB%20HDD-000000?style=for-the-badge&logo=hdd&logoColor=white)
+  ![Lubuntu](https://img.shields.io/badge/lubuntu-0078D6?style=for-the-badge&logo=lubuntu&logoColor=white)
