@@ -50,7 +50,7 @@
   ### OS
   [![Ubuntu w/ Hyprland](https://img.shields.io/badge/ubuntu%20w%2F%20hyprland-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
   [![Lubuntu](https://img.shields.io/badge/lubuntu-0078D6?style=for-the-badge&logo=lubuntu&logoColor=white)](https://lubuntu.me/)
-  [![Windows](https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white)](https://www.microsoft.com/windows)
+  [![Windows](https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white)](https://www.microsoft.com/windows)
 
   [![](https://visitcount.itsvg.in/api?id=semicoll&icon=0&color=0)](https://visitcount.itsvg.in)
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
