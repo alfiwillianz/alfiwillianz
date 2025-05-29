@@ -9,7 +9,7 @@
   [![Twitch](https://img.shields.io/badge/twitch-9146FF?style=for-the-badge&logo=Twitch&logoColor=white)](https://twitch.tv/semiqolonn) 
   [![X](https://img.shields.io/badge/x-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/semiqolonn) 
   [![Kaggle](https://img.shields.io/badge/kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/zwniff)
-  [![Discord](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/users/702817817774391334)
+  [![Discord](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/user/702817817774391334)
   
   # 💻 Tech Stack:
 
