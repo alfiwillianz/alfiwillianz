@@ -71,7 +71,8 @@
   ![Ubuntu w/ Hyprland](https://img.shields.io/badge/ubuntu%20w%2F%20hyprland-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
   ### Discord bot server
-  ![celeron 1007u](https://img.shields.io/badge/Celeron%201007u-ED1C24?style=for-the-badge&logo=intel&logoColor=white)
+  ![celeron 1007u](https://img.shields.io/badge/Celeron%201007u-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+  ![Intel HD Graphics](https://img.shields.io/badge/Intel%20HD%20Graphics-0071C5?style=for-the-badge&logo=intel&logoColor=white)
   ![4 GB DDR3 RAM](https://img.shields.io/badge/4GB%20DDR3%20RAM-000000?style=for-the-badge&logo=ram&logoColor=white)
   ![500 GB HDD](https://img.shields.io/badge/500GB%20HDD-000000?style=for-the-badge&logo=hdd&logoColor=white)
   ![Lubuntu](https://img.shields.io/badge/lubuntu-0078D6?style=for-the-badge&logo=lubuntu&logoColor=white)
