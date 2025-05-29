@@ -4,10 +4,10 @@
   ✏️ I'm an aspiring AI Engineer with a background in Data Science and Machine Learning, based in Surabaya, Indonesia. Passionate about leveraging technology to solve real-world problems and constantly evolving as a programmer.
 
   ## 🌐 Socials:
-  [![Instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/smcolonn) 
+  [![Instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/semiqolonn) 
   [![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alfi-willianz) 
-  [![Twitch](https://img.shields.io/badge/twitch-9146FF?style=for-the-badge&logo=Twitch&logoColor=white)](https://twitch.tv/smcolonn) 
-  [![X](https://img.shields.io/badge/x-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/smcolonn) 
+  [![Twitch](https://img.shields.io/badge/twitch-9146FF?style=for-the-badge&logo=Twitch&logoColor=white)](https://twitch.tv/semiqolonn) 
+  [![X](https://img.shields.io/badge/x-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/semiqolonn) 
   
   # 💻 Tech Stack:
 
