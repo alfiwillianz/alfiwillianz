@@ -55,24 +55,26 @@
   # 🖥️ Machine
 
   ### Main Machine
-  ![Ryzen 5 7500f](https://img.shields.io/badge/Ryzen%205%207500f-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-  ![RTX 5060ti 16GB](https://img.shields.io/badge/RTX%205060ti%2016GB-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-  ![32 GB DDR5 RAM](https://img.shields.io/badge/16GB%20DDR5%20RAM-000000?style=for-the-badge&logo=ram&logoColor=white)
-  ![2.5 TB NVMe SSD](https://img.shields.io/badge/2.5TB%20NVMe%20SSD-000000?style=for-the-badge&logo=ssd&logoColor=white)
-  ![1.5 TB HDD](https://img.shields.io/badge/1.5TB%20HDD-000000?style=for-the-badge&logo=hdd&logoColor=white)
-  ![Ubuntu w/ Hyprland](https://img.shields.io/badge/ubuntu%20w%2F%20hyprland-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-  ![Windows 11](https://custom-icon-badges.demolab.com/badge/windows%2011-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
+  - **CPU:** 🔶 AMD Ryzen 5 7500f
+  - **GPU:** 🟢 NVIDIA RTX 5060ti 16GB
+  - **RAM:** ⚡ 32 GB DDR5
+  - **Storage:** 
+    - 💾 2.5 TB NVMe SSD
+    - 💽 1.5 TB HDD
+  - **OS:** 
+    - 🐧 Ubuntu with Hyprland
+    - 🪟 Windows 11
 
   ### Laptop
-  ![Ryzen 5 3500u](https://img.shields.io/badge/Ryzen%205%203500u-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-  ![Radeon Vega 8](https://img.shields.io/badge/Radeon%20Vega%208-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-  ![20 GB DDR4 RAM](https://img.shields.io/badge/20GB%20DDR4%20RAM-000000?style=for-the-badge&logo=ram&logoColor=white)
-  ![512 GB NVMe SSD](https://img.shields.io/badge/500GB%20NVMe%20SSD-000000?style=for-the-badge&logo=ssd&logoColor=white)
-  ![Ubuntu w/ Hyprland](https://img.shields.io/badge/ubuntu%20w%2F%20hyprland-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+  - **CPU:** 🔶 AMD Ryzen 5 3500u
+  - **GPU:** 🔶 AMD Radeon Vega 8
+  - **RAM:** ⚡ 20 GB DDR4
+  - **Storage:** 💾 512 GB NVMe SSD
+  - **OS:** 🐧 Ubuntu with Hyprland
 
-  ### Discord bot server
-  ![celeron 1007u](https://img.shields.io/badge/Celeron%201007u-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-  ![Intel HD Graphics](https://img.shields.io/badge/Intel%20HD%20Graphics-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-  ![4 GB DDR3 RAM](https://img.shields.io/badge/4GB%20DDR3%20RAM-000000?style=for-the-badge&logo=ram&logoColor=white)
-  ![500 GB HDD](https://img.shields.io/badge/500GB%20HDD-000000?style=for-the-badge&logo=hdd&logoColor=white)
-  ![Lubuntu](https://img.shields.io/badge/lubuntu-0078D6?style=for-the-badge&logo=lubuntu&logoColor=white)
+  ### Discord Bot Server
+  - **CPU:** 🔷 Intel Celeron 1007u
+  - **GPU:** 🔷 Intel HD Graphics
+  - **RAM:** ⚡ 4 GB DDR3
+  - **Storage:** 💽 500 GB HDD
+  - **OS:** 🐧 Lubuntu
