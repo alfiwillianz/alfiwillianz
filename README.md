@@ -5,7 +5,7 @@
 
   ## 🌐 Socials:
   [![Instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/semiqolonn) 
-  [![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/alfi-willianz) 
+  [![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin-white&logoColor=white)](https://linkedin.com/in/alfi-willianz) 
   [![Twitch](https://img.shields.io/badge/twitch-9146FF?style=for-the-badge&logo=Twitch&logoColor=white)](https://twitch.tv/semiqolonn) 
   [![X](https://img.shields.io/badge/x-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/semiqolonn) 
   [![Kaggle](https://img.shields.io/badge/kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/zwniff)
@@ -35,7 +35,7 @@
   [![Keras](https://img.shields.io/badge/keras-D00000?style=for-the-badge&logo=keras&logoColor=white)](https://keras.io/)
   [![Scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
   [![SciPy](https://img.shields.io/badge/scipy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)](https://scipy.org/)
-  [![Matplotlib](https://img.shields.io/badge/matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
+  [![Matplotlib](https://img.shields.io/badge/matplotlib-11557C?style=for-the-badge&logo=Matplotlib&logoColor=white)](https://matplotlib.org/)
   [![Seaborn](https://img.shields.io/badge/seaborn-2A9D8F?style=for-the-badge&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
   [![Plotly](https://img.shields.io/badge/plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/)
 
