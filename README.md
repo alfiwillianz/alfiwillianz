@@ -44,9 +44,8 @@
   [![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
   ### OS
-  [![Ubuntu](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+  [![Ubuntu w/ Hyprland](https://img.shields.io/badge/ubuntu%20w%2F%20hyprland-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
   [![Windows](https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
-  [!Hyprland](https://img.shields.io/badge/hyprland-000000?style=for-the-badge&logo=hyprland&logoColor=white)](https://hyprland.org/)
 
   [![](https://visitcount.itsvg.in/api?id=semicoll&icon=0&color=0)](https://visitcount.itsvg.in)
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
