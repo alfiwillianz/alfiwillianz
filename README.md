@@ -53,6 +53,7 @@
   [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white)](https://www.microsoft.com/windows)
 
   # 🖥️ Machine
+<div align="left">
 
   ### Main Machine
   - **CPU:** 🔶 AMD Ryzen 5 7500f
@@ -78,3 +79,4 @@
   - **RAM:** ⚡ 4 GB DDR3
   - **Storage:** 💽 500 GB HDD
   - **OS:** 🐧 Lubuntu
+</div>
