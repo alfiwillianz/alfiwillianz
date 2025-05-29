@@ -50,7 +50,7 @@
   ### OS
   [![Ubuntu w/ Hyprland](https://img.shields.io/badge/ubuntu%20w%2F%20hyprland-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
   [![Lubuntu](https://img.shields.io/badge/lubuntu-0078D6?style=for-the-badge&logo=lubuntu&logoColor=white)](https://lubuntu.me/)
-  [![Windows](https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=Windows11&logoColor=white)](https://www.microsoft.com/windows)
+  [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white)](https://www.microsoft.com/windows)
 
   # 🖥️ Machine
 
@@ -61,7 +61,7 @@
   ![2.5 TB NVMe SSD](https://img.shields.io/badge/2.5TB%20NVMe%20SSD-000000?style=for-the-badge&logo=ssd&logoColor=white)
   ![1.5 TB HDD](https://img.shields.io/badge/1.5TB%20HDD-000000?style=for-the-badge&logo=hdd&logoColor=white)
   ![Ubuntu w/ Hyprland](https://img.shields.io/badge/ubuntu%20w%2F%20hyprland-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-  ![Windows 11](https://img.shields.io/badge/windows%2011-0078D6?style=for-the-badge&logo=Windows11&logoColor=white)
+  ![Windows 11](https://custom-icon-badges.demolab.com/badge/windows%2011-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
 
   ### Laptop
   ![Ryzen 5 3500u](https://img.shields.io/badge/Ryzen%205%203500u-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
