@@ -51,32 +51,3 @@
   [![Ubuntu w/ Hyprland](https://img.shields.io/badge/ubuntu%20w%2F%20hyprland-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
   [![Lubuntu](https://img.shields.io/badge/lubuntu-0078D6?style=for-the-badge&logo=lubuntu&logoColor=white)](https://lubuntu.me/)
   [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white)](https://www.microsoft.com/windows)
-
-  # 🖥️ Machine
-<div align="left">
-
-  ### Main Machine
-  - **CPU:** 🔶 AMD Ryzen 5 7500f
-  - **GPU:** 🟢 NVIDIA RTX 5060ti 16GB
-  - **RAM:** ⚡ 32 GB DDR5
-  - **Storage:** 
-    - 💾 2.5 TB NVMe SSD
-    - 💽 1.5 TB HDD
-  - **OS:** 
-    - 🐧 Ubuntu with Hyprland
-    - 🪟 Windows 11
-
-  ### Laptop
-  - **CPU:** 🔶 AMD Ryzen 5 3500u
-  - **GPU:** 🔶 AMD Radeon Vega 8
-  - **RAM:** ⚡ 20 GB DDR4
-  - **Storage:** 💾 512 GB NVMe SSD
-  - **OS:** 🐧 Ubuntu with Hyprland
-
-  ### Discord Bot Server
-  - **CPU:** 🔷 Intel Celeron 1007u
-  - **GPU:** 🔷 Intel HD Graphics
-  - **RAM:** ⚡ 4 GB DDR3
-  - **Storage:** 💽 500 GB HDD
-  - **OS:** 🐧 Lubuntu
-</div>
