@@ -1,6 +1,4 @@
-
-  # 💫 About Me:
-  ✏️ I'm an AI Engineering student with a background in Data Science and Machine Learning, based in Surabaya, Indonesia. Passionate about leveraging technology to solve real-world problems and constantly evolving as a programmer.
+  AI Engineering student with a background in Data Science and Machine Learning, based in Surabaya, Indonesia.
 
   ## 🌐 Socials:
   [![Instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/semiqolonn) 
