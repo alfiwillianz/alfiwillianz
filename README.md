@@ -4,5 +4,5 @@
 
   ### How to reach me?
   * [My personal website!](https://alfi.is-a.dev)
-  * [LinkedIn](www.linkedin.com/in/alfi-willianz)
+  * [LinkedIn](https://www.linkedin.com/in/alfi-willianz)
   * Or send me an e-mail! [willianz@pm.me](mailto:willianz@pm.me)
